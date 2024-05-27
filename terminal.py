@@ -1,6 +1,7 @@
 import os # Import os
 import colorama # Import colorama
 
+# Import Fore color and font Style
 from colorama import Fore, Style
 
 colorama.init(autoreset=True)
