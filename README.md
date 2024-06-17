@@ -18,6 +18,7 @@ Mathematical Formula: $${\displaystyle X_{n+1}=(aX_{n}+b)\,{\textrm {mod}}\,m}$$
 - Reusable Utilities: A library of handy functions, modules, and scripts that can be easily adapted and incorporated into various coding endeavors.
 
 ## Project Author
+- Name: Naufal Rahfi Anugerah
 - GitHub: [@rahfianugerah](https://www.github.com/rahfianugerah)
 
 ---
