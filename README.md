@@ -16,3 +16,8 @@ Mathematical Formula: $${\displaystyle X_{n+1}=(aX_{n}+b)\,{\textrm {mod}}\,m}$$
 - Gems & Hacks: Polished, well-tested code snippets that can be seamlessly integrated into future projects, saving my time and effort.
 - Prototypes & Experiments: A playground for my coding ideas! This is where i can stash unfinished projects, code experiments, or prototypes that might spark future inspiration.
 - Reusable Utilities: A library of handy functions, modules, and scripts that can be easily adapted and incorporated into various coding endeavors.
+
+## Project Author
+- GitHub: [@rahfianugerah](https://www.github.com/rahfianugerah)
+
+---
